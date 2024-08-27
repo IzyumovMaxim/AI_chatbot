@@ -2,3 +2,4 @@ nest_asyncio
 aiohttp
 asyncio
 IPython
+streamlit
