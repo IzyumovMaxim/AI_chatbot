@@ -1,1 +1,3 @@
 nest_asyncio
+aiohttp
+asyncio
