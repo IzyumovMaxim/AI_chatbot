@@ -1,1 +1,1 @@
-echo "nest_asyncio==1.5.5"
+nest_asyncio
